@@ -39,6 +39,8 @@ plot(fw2);
 ```
 
 ## OUTPUT
+<img width="755" height="620" alt="AC-6 SS" src="https://github.com/user-attachments/assets/d709b289-f70c-47ef-be32-f5480d8249ee" />
+
 
 ## RESULT
 Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
